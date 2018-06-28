@@ -1,4 +1,4 @@
-package com.dropzone;
+package pw.dropzone;
 
 import android.app.Application;
 

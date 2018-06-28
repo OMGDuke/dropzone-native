@@ -98,7 +98,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.dropzone"
+        applicationId "pw.dropzone"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
