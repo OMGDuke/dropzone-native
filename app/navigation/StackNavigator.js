@@ -13,7 +13,6 @@ export default createStackNavigator(
   {
     navigationOptions: ({ navigation }) => {
       const { routes, index } = navigation.state;
-      console.log();
       const title = routes[index].routeName;
       return {
         header: <Header navigation={navigation} title={title} />,
